@@ -1,2 +1,2 @@
-# indanity.github.io
+# dangorhythm.github.io
 My portfolio website.
